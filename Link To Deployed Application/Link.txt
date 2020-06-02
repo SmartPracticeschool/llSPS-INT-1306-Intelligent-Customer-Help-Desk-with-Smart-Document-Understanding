@@ -1,9 +1,0 @@
-
-The link to the deployed application is as mentioned below:
-
-https://smart-lapbot.eu-gb.mybluemix.net/ui/
-
-Do type in your queries and check out the service
-
-~Thank You
-(Ankit Jain)
