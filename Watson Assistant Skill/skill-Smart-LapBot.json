@@ -1,0 +1,2024 @@
+{
+  "intents": [
+    {
+      "intent": "Customer_Care_Contact_Us",
+      "examples": [
+        {
+          "text": "Can you please arrange for someone to call me!?"
+        },
+        {
+          "text": "Who can I call?"
+        },
+        {
+          "text": "What is you email?"
+        },
+        {
+          "text": "Where can I reach the company personally?"
+        },
+        {
+          "text": "What number should I call to order new line of service?"
+        },
+        {
+          "text": "Can you give me the number to the general manager?"
+        },
+        {
+          "text": "Can I text you a question?"
+        },
+        {
+          "text": "Can I get some more information?"
+        },
+        {
+          "text": "Can I contact the business by post?"
+        },
+        {
+          "text": "What is the customer number?"
+        },
+        {
+          "text": "What is the closest store's phone number?"
+        },
+        {
+          "text": "Tell me the number to your general department"
+        },
+        {
+          "text": "Hi can you let me have the telephone number of my local store please?"
+        },
+        {
+          "text": "How do I best contact you when there has been a problem with my bill?"
+        },
+        {
+          "text": "How can I contact your business?"
+        },
+        {
+          "text": "Need your phone number"
+        },
+        {
+          "text": "Is there a phone number to your shop at fort worth tx?"
+        },
+        {
+          "text": "Which is the number of the main office here?"
+        },
+        {
+          "text": "I want to know number to the store closest to me"
+        },
+        {
+          "text": "I would like to speak to customer service."
+        }
+      ],
+      "description": "Find basic contact information."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Call agent"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "Definition",
+      "examples": [
+        {
+          "text": "HDMI"
+        },
+        {
+          "text": "What is port ?"
+        },
+        {
+          "text": "What is a charger?"
+        },
+        {
+          "text": "VGA"
+        },
+        {
+          "text": "What is a trackpad ?"
+        },
+        {
+          "text": "What is a keyboard ?"
+        },
+        {
+          "text": "What is a keyboard?"
+        },
+        {
+          "text": "Card Reader"
+        },
+        {
+          "text": "CD / DVD"
+        }
+      ],
+      "description": "Answers to definitions in the dialogs"
+    },
+    {
+      "intent": "Servicing",
+      "examples": [
+        {
+          "text": "Is home service available?"
+        },
+        {
+          "text": "can I get service at my place?"
+        },
+        {
+          "text": "Can a service be scheduled?"
+        },
+        {
+          "text": "Schedule a service for me?"
+        },
+        {
+          "text": "Can I get some door-step service?"
+        },
+        {
+          "text": "Can yu schedule a service for me?"
+        },
+        {
+          "text": "Can some person come to y home?"
+        },
+        {
+          "text": "What is the use of numeric keyboard?"
+        }
+      ],
+      "description": "To schedule a service"
+    },
+    {
+      "intent": "Greeting",
+      "examples": [
+        {
+          "text": "Namaskar"
+        },
+        {
+          "text": "Good Afternoon"
+        },
+        {
+          "text": "Hi!"
+        },
+        {
+          "text": "Hello!"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Good Morning!"
+        },
+        {
+          "text": "Good Afternoon!"
+        },
+        {
+          "text": "Good Afternoon !"
+        }
+      ],
+      "description": "To recognize welcome"
+    },
+    {
+      "intent": "Customer_Care_Notification_Preferences",
+      "examples": [
+        {
+          "text": "Can you send text notifications to additional mobile number?"
+        },
+        {
+          "text": "Deactivate my notifications"
+        },
+        {
+          "text": "Can I use another way of receiving alerts by editing existing one?"
+        },
+        {
+          "text": "Can you help me with changing delivery method?"
+        },
+        {
+          "text": "Can you send alert on my whatsapp?"
+        },
+        {
+          "text": "Change notifications to sms"
+        },
+        {
+          "text": "Changing my notification preferences"
+        },
+        {
+          "text": "How can I change delivery method?"
+        },
+        {
+          "text": "How can I edit delivery methods to new one?"
+        },
+        {
+          "text": "How can I modify notification alerts?"
+        },
+        {
+          "text": "How can I update my delivery methods?"
+        },
+        {
+          "text": "How do I change credit card transaction alerts?"
+        },
+        {
+          "text": "How to change my notification preferences?"
+        },
+        {
+          "text": "How to customize notifications that I am receiving?"
+        },
+        {
+          "text": "How to switch over from sms to email delivery alert?"
+        },
+        {
+          "text": "I need to change my current alert method to something else"
+        },
+        {
+          "text": "I request to get alerts via email"
+        },
+        {
+          "text": "I want my bank messages to notify me on emails as well"
+        },
+        {
+          "text": "I want to stop getting emails every time my card gets swiped"
+        },
+        {
+          "text": "Notifications are to be received on sms"
+        },
+        {
+          "text": "Tell me process to change alerts method"
+        }
+      ],
+      "description": "Manage user's notifications."
+    },
+    {
+      "intent": "product_info_from_manual",
+      "examples": [
+        {
+          "text": "What is Push-Button Reset?"
+        },
+        {
+          "text": "How can I change the boot mode?"
+        },
+        {
+          "text": "I uninstalled a reinstalled software, but there is no significant increase in the free drive space"
+        },
+        {
+          "text": "What is Lenovo One Key Recovering System?"
+        },
+        {
+          "text": "Can I get help from windows?"
+        },
+        {
+          "text": "What is start menu?"
+        },
+        {
+          "text": "Configuring the operating system for the first time?"
+        },
+        {
+          "text": "What is the use of numeric keyboard?"
+        },
+        {
+          "text": "What is integrated Camera?"
+        },
+        {
+          "text": "Putting your computer to sleep?"
+        },
+        {
+          "text": "Attention"
+        },
+        {
+          "text": "What is the use of Power Key?"
+        },
+        {
+          "text": "Computer display"
+        },
+        {
+          "text": "Enabling wireless connection"
+        },
+        {
+          "text": "Connecting To a wireless network"
+        },
+        {
+          "text": "How can I contact the customer support center?"
+        },
+        {
+          "text": "Where are the recovery discs?"
+        },
+        {
+          "text": "How to use a keyboard?"
+        },
+        {
+          "text": "What safety precautions should I follow when using my computer?"
+        },
+        {
+          "text": "What is Recovery Partition?"
+        }
+      ],
+      "description": "To display results from manual"
+    },
+    {
+      "intent": "Customer_Care_Products_Offered",
+      "examples": [
+        {
+          "text": "Show me some cars"
+        },
+        {
+          "text": "Show me retirement products"
+        },
+        {
+          "text": "New products"
+        },
+        {
+          "text": "Need to know what products you have"
+        },
+        {
+          "text": "Items currently sold"
+        },
+        {
+          "text": "Items available?"
+        },
+        {
+          "text": "I would like to know what I can buy"
+        },
+        {
+          "text": "I need information on one of your products"
+        },
+        {
+          "text": "Catalogue look"
+        },
+        {
+          "text": "What potential products or services are available?"
+        },
+        {
+          "text": "What product do you recommend for a tech consultant?"
+        },
+        {
+          "text": "What products are offered in the company?"
+        },
+        {
+          "text": "What products can I get from your company?"
+        },
+        {
+          "text": "What products do you offer in the company?"
+        },
+        {
+          "text": "What kinds of products do you sell?"
+        },
+        {
+          "text": "What kind of products are available?"
+        },
+        {
+          "text": "What does your shop provide?"
+        },
+        {
+          "text": "What does your business sell?"
+        },
+        {
+          "text": "What are your business banking products?"
+        },
+        {
+          "text": "Tell me about shoes"
+        }
+      ],
+      "description": "Find products that are available for purchase."
+    },
+    {
+      "intent": "Customer_Care_Appointments",
+      "examples": [
+        {
+          "text": "I want to cancel the appointment that I have with the store"
+        },
+        {
+          "text": "When can I meet with one of your employees at your store?"
+        },
+        {
+          "text": "Can I book an in person session to learn how to use my new phone at the store near my house?"
+        },
+        {
+          "text": "Can someone support me at home?"
+        },
+        {
+          "text": "Can you explain me this in my house?"
+        },
+        {
+          "text": "Could I speak to someone in the store next tuesday?"
+        },
+        {
+          "text": "Could you cancel the engagement I had tomorrow in my apartment?"
+        },
+        {
+          "text": "How can I change the schedule?"
+        },
+        {
+          "text": "I am due at a store tomorrow at 2pm and wish to change my appointment please?"
+        },
+        {
+          "text": "What time can I meet the staff?"
+        },
+        {
+          "text": "I need to reschedule"
+        },
+        {
+          "text": "Want to change my visit"
+        },
+        {
+          "text": "Store appointment"
+        },
+        {
+          "text": "Set up an appt"
+        },
+        {
+          "text": "Make an appointment"
+        },
+        {
+          "text": "Is it possible to set a date?"
+        },
+        {
+          "text": "I would like to make an appointment to visit the nearest store to my location."
+        },
+        {
+          "text": "I would like to discuss my situation face to face"
+        },
+        {
+          "text": "I want to talk in person with someone about my case"
+        },
+        {
+          "text": "I prefer a face to face visit"
+        }
+      ],
+      "description": "Schedule or manage an in-store appointment."
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Goodbye"
+        }
+      ],
+      "description": "To present a goodbye note"
+    },
+    {
+      "intent": "Customer_Care_Store_Location",
+      "examples": [
+        {
+          "text": "Looking for a location"
+        },
+        {
+          "text": "Show me nearest service center"
+        },
+        {
+          "text": "What is the closest store to my address?"
+        },
+        {
+          "text": "What is the nearest branch?"
+        },
+        {
+          "text": "What is the store near my zip code?"
+        },
+        {
+          "text": "Where are you located?"
+        },
+        {
+          "text": "Where is your office?"
+        },
+        {
+          "text": "Where is?"
+        },
+        {
+          "text": "Can you tell me about physical locations you have ?"
+        },
+        {
+          "text": "Where are the store locations closest?"
+        },
+        {
+          "text": "Find store"
+        },
+        {
+          "text": "Do you have an office?"
+        },
+        {
+          "text": "Is there any shopping mall around me?"
+        },
+        {
+          "text": "I'd like to go to a store"
+        },
+        {
+          "text": "I want to know about a store"
+        },
+        {
+          "text": "I need help with find a store"
+        },
+        {
+          "text": "Go to your company"
+        },
+        {
+          "text": "Can you help me find locations in the general area of downtown baltimore?"
+        }
+      ],
+      "description": "Locate a physical store location or an address."
+    }
+  ],
+  "entities": [
+    {
+      "entity": "product_details",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "strength",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "color",
+          "synonyms": [
+            "colour",
+            "colors",
+            "hue",
+            "palette",
+            "shades",
+            "matte",
+            "colours",
+            "palettes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "interface",
+          "synonyms": [
+            "interfaces",
+            "gui",
+            "functionality",
+            "graphical",
+            "configuration",
+            "module",
+            "ui",
+            "controller",
+            "intuitive"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "confirm",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Y",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "N",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Yes",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "product_price",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "price",
+          "synonyms": [
+            "prices",
+            "cost",
+            "value",
+            "rate",
+            "buy",
+            "fare",
+            "prize",
+            "lowest",
+            "rates",
+            "costs",
+            "pricing",
+            "purchase",
+            "buying",
+            "fares",
+            "expenses",
+            "costing",
+            "charges",
+            "expenditure",
+            "sell",
+            "cheapest"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "ports",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "HDMI",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "More",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "CARD",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "CD",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ethernet",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "USB 3.0",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "USB 2.0",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "VGA",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "laptop",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Laptop",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Laptop Repair Services",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Laptop Accessories",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "definition",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "body",
+          "synonyms": [
+            "panel",
+            "top ",
+            "back",
+            "rear",
+            "side"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "charger",
+          "synonyms": [
+            "charge",
+            "wire"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ports",
+          "synonyms": [
+            "HDMI",
+            "USB",
+            "USB 3.0",
+            "USB3.0",
+            "USB 2.0",
+            "USB2.0",
+            "dvi",
+            "vga",
+            "displayport",
+            "outports",
+            "sata"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "trackpad",
+          "synonyms": [
+            "mouse"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "screen",
+          "synonyms": [
+            "monitor",
+            "display",
+            "pane",
+            "desktop",
+            "LCD",
+            "screens",
+            "displays",
+            "desktops",
+            "lcds",
+            "touchscreen",
+            "tft",
+            "pmoled",
+            "panes"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "keyboard",
+          "synonyms": [
+            "keypad",
+            "numeric keypad",
+            "keys"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "carestore",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "name",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "location",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "place",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "hours",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "duration",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "buy",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Charger",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Laptop",
+          "synonyms": [
+            "notebook",
+            "laptops",
+            "netbook",
+            "computer",
+            "macbook",
+            "battery",
+            "inspiron",
+            "compaq",
+            "powerbook"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Headphone",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Keyguard",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mouse",
+          "synonyms": [
+            "Wireless Mouse"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/ankit2399jain%40gmail.com_dev/default/smart-LapBot.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Location Of store",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We are located approximately at all countries around the globe.\nYou can reach our nearest available customer help store available near your area. Shall I tell you our nearest store to you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590050407370",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_2_1590261860037"
+      },
+      "conditions": "#Customer_Care_Store_Location",
+      "dialog_node": "node_1_1590147670715",
+      "previous_sibling": "node_9_1590147587330"
+    },
+    {
+      "type": "standard",
+      "title": "Appointments",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, we can schedule a service!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590050407370",
+      "conditions": "#Customer_Care_Appointments",
+      "dialog_node": "node_9_1590147587330"
+    },
+    {
+      "type": "standard",
+      "title": "Response",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1590150986039",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1590176155775"
+      },
+      "conditions": "@sys-number > 1000000000",
+      "dialog_node": "node_3_1590151064851"
+    },
+    {
+      "type": "standard",
+      "title": "Info",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can order anytime on our site <br><p align=\"center\"><a href=\"https://www.lenovo.com/in/en/\" target=\"_blank\"><blink>Click here To Order!!</blink></a></p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590147593745",
+      "conditions": "@laptop",
+      "dialog_node": "node_6_1590647208427"
+    },
+    {
+      "type": "standard",
+      "title": "Mobile",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please enter your mobile number followed by country code."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1590150884938",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_3_1590151064851"
+      },
+      "conditions": "@confirm:Yes",
+      "dialog_node": "node_8_1590150986039"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "Please try again"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1590002544697",
+      "conditions": "anything_else",
+      "dialog_node": "response_5_1590085106176",
+      "previous_sibling": "response_4_1590085098458"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "\"<?$webhook_result_2.passages[0].passage_text?>\""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1590002544697",
+      "conditions": "$webhook_result_2",
+      "dialog_node": "response_4_1590085098458"
+    },
+    {
+      "type": "standard",
+      "title": "Confirm_N",
+      "parent": "node_7_1590149885632",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1590150392957"
+      },
+      "conditions": "@confirm:N",
+      "dialog_node": "node_2_1590175619317",
+      "previous_sibling": "node_1_1590150273341"
+    },
+    {
+      "type": "standard",
+      "title": "Confirm_Y",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Done ! Changes are applied , you wont receive further notifications!!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590149885632",
+      "conditions": "@confirm:Y",
+      "dialog_node": "node_1_1590150273341"
+    },
+    {
+      "type": "standard",
+      "title": "Screen",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In a computer display , the screen is the physical surface on which visual information is presented. This surface is usually made of glass. The screen size is measured from one corner to the opposite corner diagonally. Common screen sizes for desktop display screens are 12, 14, 17, 19, and 21 inches."
+              },
+              {
+                "text": "A laptop displays its graphics on a liquid crystal display (LCD) screen. Most screens measure between 12 and 17 inches, and the size of the screen affects the overall size of the laptop."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1590050446676",
+      "conditions": "@definition:screen",
+      "dialog_node": "node_10_1590084524852",
+      "previous_sibling": "node_5_1590084523417"
+    },
+    {
+      "type": "standard",
+      "title": "Body",
+      "parent": "node_6_1590050446676",
+      "conditions": "@definition:body",
+      "dialog_node": "node_3_1590084445072",
+      "previous_sibling": "node_9_1590084442736"
+    },
+    {
+      "type": "standard",
+      "title": "TrackPad",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A touch pad is a device for pointing (controlling input positioning) on a computer display screen. It is an alternative to the mouse. Originally incorporated in laptop computers, touch pads are also being made for use with desktop computers. A touch pad works by sensing the user's finger movement and downward pressure."
+              },
+              {
+                "text": "A touchpad or trackpad is a pointing device featuring a tactile sensor, a specialized surface that can translate the motion and position of a user's fingers to a relative position on the operating system that is made output to the screen. Touchpads are a common feature of laptop computers"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_6_1590050446676",
+      "conditions": "@definition:trackpad",
+      "dialog_node": "node_9_1590084442736",
+      "previous_sibling": "node_8_1590084440088"
+    },
+    {
+      "type": "standard",
+      "title": "Ports",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A port is a physical docking point using which an external device can be connected to the computer. It can also be programmatic docking point through which information flows from a program to the computer or over the Internet.\nDo you want info about ports?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1590050446676",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_6_1590084447474"
+      },
+      "conditions": "@definition:ports",
+      "dialog_node": "node_4_1590262742695",
+      "previous_sibling": "node_3_1590084445072"
+    },
+    {
+      "type": "standard",
+      "title": "Charger",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Alternatively known as an AC/DC adapter, AC converter or charger, an AC adapter is an external power supply used with devices that run on batteries or have no other power source. AC adapters help reduce the size of a laptop computer by alleviating the need for a standard sized power supply."
+              },
+              {
+                "text": "A power supply for electronic devices. Also called an \"AC adapter\" or \"charger,\" power adapters plug into a wall outlet and convert AC to a single DC voltage. Computers use multiple DC voltages, and the power adapter is the external part of the power supply for a laptop."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_6_1590050446676",
+      "conditions": "@definition:charger",
+      "dialog_node": "node_5_1590084523417",
+      "previous_sibling": "node_4_1590262742695"
+    },
+    {
+      "type": "standard",
+      "title": "Keyboard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A keyboard is an input device that allows a person to enter letters, numbers, and other symbols (these are called characters in a keyboard) into a computer. ... Using a keyboard to enter lots of data is called typing. A keyboard contains many mechanical switches or push-buttons called \"keys\"."
+              },
+              {
+                "text": "Description. A keyboard is an input device used to enter characters and functions into the computer system by pressing buttons, or keys. It is the primary device used to enter text. A keyboard typically contains keys for individual letters, numbers and special characters, as well as keys for specific functions "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1590050446676",
+      "conditions": "@definition:keyboard",
+      "dialog_node": "node_8_1590084440088"
+    },
+    {
+      "type": "standard",
+      "title": "Confirm",
+      "parent": "node_6_1590147592129",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_7_1590149885632"
+      },
+      "conditions": "@confirm",
+      "dialog_node": "node_7_1590175163866",
+      "previous_sibling": "node_2_1590151566483"
+    },
+    {
+      "type": "standard",
+      "title": "Others",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your response has been recorded. We would surely get it done!!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1590147592129",
+      "conditions": "@confirm != \"Yes\" && @confirm != \"No\"",
+      "dialog_node": "node_2_1590151566483"
+    },
+    {
+      "type": "standard",
+      "title": "Confirm 2",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay we won't change your settings. You will still have access to notifications!!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590175163866",
+      "conditions": "@confirm:No",
+      "dialog_node": "node_10_1590150392957",
+      "previous_sibling": "node_7_1590149885632"
+    },
+    {
+      "type": "standard",
+      "title": "Confirm 1",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Are you sure you want to unsubscribe to e-Mails and text messages from our company? (Y/N)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1590175163866",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_1_1590150273341"
+      },
+      "conditions": "@confirm:Yes",
+      "dialog_node": "node_7_1590149885632"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "USB 2.0. Also Known As: High-speed USB, USB 2 Description: Capable of transferring data at up to 480 Mbps, USB 2.0 is the most common speed of USB and works effectively with the majority of peripherals. A USB 2.0 port can come in a variety of shapes, including Type-A (rectangular), Type-B (square), mini or micro USB."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1590262742695",
+      "conditions": "@ports:(USB 2.0)",
+      "dialog_node": "node_3_1590261213485",
+      "previous_sibling": "node_3_1590261211158"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ah!! What more... Please try the Google at hhtps://www.google.com"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1590262742695",
+      "conditions": "@ports:More",
+      "dialog_node": "node_6_1590261699136",
+      "previous_sibling": "node_6_1590261236171"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A Video Graphics Array (VGA) connector is a three-row 15-pin DE-15 connector. The 15-pin VGA connector was provided on many video cards, computer monitors, laptop computers, projectors, and high definition television sets."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1590262742695",
+      "conditions": "@ports:VGA",
+      "dialog_node": "node_3_1590261211158",
+      "previous_sibling": "node_6_1590261208190"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "An optical disc drive that reads and writes all common CD and DVD formats. All modern optical drives that come with personal computers are CD/DVD drives. ... THIS DEFINITION IS FOR PERSONAL USE ONLY."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1590262742695",
+      "conditions": "@ports:CD",
+      "dialog_node": "node_2_1590261232606",
+      "previous_sibling": "node_3_1590261229837"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "An RJ-45 Ethernet socket on a computer or network device such as a switch or router. All client machines, servers and network devices on the local network are cabled together at their LAN ports. Contrast with WAN port. See RJ-45. RJ-45 Ethernet Plug and Socket."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1590262742695",
+      "conditions": "@ports:Ethernet",
+      "dialog_node": "node_3_1590261229837",
+      "previous_sibling": "node_6_1590261227040"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "USB 3.0, also known as SuperSpeed USB, is the next major revision of the Universal Serial Bus (USB), a hardware interface that supports the exchange of data between a host computer and peripherals. Enhancements in the USB 3.0 specification were driven by the need for faster transfer rates and better power efficiency."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1590262742695",
+      "conditions": "@ports:(USB 3.0)",
+      "dialog_node": "node_6_1590261227040",
+      "previous_sibling": "node_3_1590261213485"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The SD Card Reader port is available on almost all the new laptops today. It enables you to transfer files to/from an SD Card. It is a handy port to have when you want to transfer photos from your DSLR camera SD card to your laptop"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1590262742695",
+      "conditions": "@ports:CARD",
+      "dialog_node": "node_6_1590261236171",
+      "previous_sibling": "node_2_1590261232606"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "High-Definition Multimedia Interface (HDMI) is a conduit through which devices can transmit and receive high-definition (HD) audio and video between external sources and receivers. Laptops with HDMI ports allow you to project high-quality video and audio onto HD-capable devices such as televisions and audio receivers."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1590262742695",
+      "conditions": "@ports:HDMI",
+      "dialog_node": "node_6_1590261208190",
+      "previous_sibling": "node_6_1590084447474"
+    },
+    {
+      "type": "standard",
+      "title": "Ports",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The laptop has many kinds of  ports of which I could provide you information: <br>\n1. HDMI <br> 2.VGA <br>  3.USB 2.0 <br>  4.USB 3.0  <br> 5.Ethernet RJ-45 Port  <br>  6. CD/DVD Driver  <br> 7.SD Card Reader  <br> 8.And Many More......  <br>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1590262742695",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_6_1590261208190"
+      },
+      "conditions": "@confirm:Yes",
+      "dialog_node": "node_6_1590084447474"
+    },
+    {
+      "type": "standard",
+      "title": "Answer",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, you will soon receive  a call, from our next available customer care executive."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1590151064851",
+      "dialog_node": "node_4_1590176155775"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Just a second.........................Will you wait?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_1_1590147670715",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_4_1590261965338"
+      },
+      "conditions": "@confirm:Yes",
+      "dialog_node": "node_2_1590261860037"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p align=\"center\">Ya !! Got it!!</p><br>\nOur company's nearest customer service center is just  at 5-minutes walk from your current location"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1590261860037",
+      "conditions": "@confirm:Yes",
+      "dialog_node": "node_4_1590261965338"
+    },
+    {
+      "type": "standard",
+      "title": "Contact US",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<br>\nYou can contact our toll free customer  helpline anytime between  Sunday to Friday. <br><br>\n<p align=\"center\">Toll Free Number : 1800-4199-733</p>\n<p align=\"center\">Timings : 9:00 AM to 11:00 PM</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Customer_Care_Contact_Us",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1590147590272",
+      "previous_sibling": "node_7_1590050407370"
+    },
+    {
+      "type": "standard",
+      "title": "Service Schedule",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our executive would be arranged"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Servicing",
+      "dialog_node": "node_10_1590050437643",
+      "previous_sibling": "node_9_1590147593745"
+    },
+    {
+      "type": "standard",
+      "title": "Thank You",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome!"
+              },
+              {
+                "text": "Ah!! No formalities..... :)"
+              },
+              {
+                "text": "Anytime dear."
+              },
+              {
+                "text": "Hope I was able to satisfy you!! :)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#Thanks",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1590050397908",
+      "previous_sibling": "node_6_1590150884938"
+    },
+    {
+      "type": "standard",
+      "title": "Ask About Product",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input.text?>"
+          },
+          "result_variable": "webhook_result_2"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#product_info_from_manual",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1590002544697",
+      "previous_sibling": "node_2_1590050388053"
+    },
+    {
+      "type": "standard",
+      "title": "Gloassary",
+      "metadata": {
+        "callout": {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input.text?>"
+          },
+          "result_variable": "webhook_result_1"
+        },
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_8_1590084440088"
+      },
+      "conditions": "#Definition",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1590050446676",
+      "previous_sibling": "node_9_1590002544697"
+    },
+    {
+      "type": "standard",
+      "title": "Request a agent?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes I would arrange it. Shall I ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_8_1590150986039"
+      },
+      "conditions": "#General_Connect_to_Agent",
+      "dialog_node": "node_6_1590150884938",
+      "previous_sibling": "node_10_1590050437643"
+    },
+    {
+      "type": "standard",
+      "title": "Care Store",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1590147587330"
+      },
+      "conditions": "@carestore || #Customer_Care_Appointments",
+      "dialog_node": "node_7_1590050407370",
+      "previous_sibling": "node_6_1590050446676"
+    },
+    {
+      "type": "standard",
+      "title": "Products Offered",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We offer all kinds of products: <br>\nThese include: <br>\n1. Laptop <br>\n2. Laptop Accessories <br>\n3. Laptop Repair Services <br><br>\nAnd many more? What would you like to buy? <br>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_6_1590647208427"
+      },
+      "conditions": "#Customer_Care_Products_Offered",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1590147593745",
+      "previous_sibling": "node_6_1590147592129"
+    },
+    {
+      "type": "standard",
+      "title": "Notifications",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can type \"Yes\" below to get your notifications stopped. Else type \"No\"."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_7_1590175163866"
+      },
+      "conditions": "#Customer_Care_Notification_Preferences",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1590147592129",
+      "previous_sibling": "node_8_1590147590272",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Greeting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi there! My name is LapBot. \nI am a skilled virtual Laptop Bot and I can resolve any of your queries related to your Laptop.\nI would be very happy to assist you...........Just tell me your query?"
+              },
+              {
+                "text": "Hello Amigo!! My name is LapBot. \nI am a AI powered virtual Laptop Bot and I  can resolve any of your queries related to your Laptop.\nPleased to be at your service. Can I help you?  "
+              },
+              {
+                "text": "Warm Greetings!\nMy name is LapBot. I can resolve any of your queries related to your Laptop."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#Greeting",
+      "dialog_node": "node_2_1590050388053",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_9_1590050397908",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Warm Greetings!\nMy name is LapBot. I can resolve any of your queries related to your Laptop."
+              },
+              {
+                "text": "Hello ! My name is LapBot. \nI can resolve any related to your Laptop. Can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "What is the use of numeric keyboard?"
+    }
+  ],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Smart-LapBot",
+  "language": "en",
+  "description": ""
+}
